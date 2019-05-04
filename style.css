@@ -1,0 +1,18 @@
+ type="text/css">
+h1{font-family: arial;
+font-size: 26px;
+font-weight: bold;
+text-align: center;}
+ol{ text-align: red;
+font-style: italic;
+font-size: 16px;
+font-family: georgia;}
+.pic{text-align: center;}
+.pac { text-align: center;
+color: grey;
+font-size: 16px;
+font-style: italic;}
+p {font-size: 14px;
+font-family: georgia;}
+.w {color: green;
+font-weight: bold;}
